@@ -1,6 +1,4 @@
-/--------------------------------------------------------------------------------------/
 pour le fonctionnement ajouter dans le dossier personnel un fichier .nanorc qui contient
-/--------------------------------------------------------------------------------------/
 
 ## Nanorc files
 include "/usr/share/nano/nanorc.nanorc"
